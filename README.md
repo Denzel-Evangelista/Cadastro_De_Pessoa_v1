@@ -11,4 +11,3 @@
 - 2° Projeto usando apenas <a href = 'https://www.python.org/downloads/'>Python 3.10.7</a></br>
 - 3° Programa usados: <a href= 'https://code.visualstudio.com/'>VS Code</a><br>
 - 4° Arquivo de salvamento dos dados criado como: <i>Cadastro_v1.txt</i></br>
-- 5° Usa o <i>CMD (Para Windows) ou Terminal (Para o Mac)</i> para exibir os dados
